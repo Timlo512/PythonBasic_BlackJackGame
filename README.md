@@ -54,3 +54,7 @@ Then you will quit the program.
 
 ![alt text](https://raw.githubusercontent.com/timtimtimab/PythonBasic_BlackJackGame/master/images/11.png)
 
+Wish you enjoy the game.
+Credit to Jose Portilla, Complete Python Bootcamp in Udemy
+Link: https://www.udemy.com/complete-python-bootcamp/learn/v4/overview
+
